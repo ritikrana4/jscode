@@ -14,3 +14,8 @@ sum(4)
 sum(10)
 console.log(sum(1))
 
+//sum(1)(2)(3)(4)()
+
+
+
+
