@@ -1,13 +1,12 @@
-import { useState } from 'react'
 import './App.css'
+import { Accordion } from './Components/Accordion'
+import { FileExplorer } from './Components/FileExplorerGoogle'
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
     <>
-      hi
-        
+     <FileExplorer/>
     </>
   )
 }
